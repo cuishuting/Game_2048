@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image_2048/logo2.jpg</file>
+        <file>image_2048/background2.jpg</file>
+        <file>image_2048/BoardNode(1).png</file>
+        <file>image_2048/num_0.png</file>
+        <file>image_2048/num_2.png</file>
+        <file>image_2048/num_4.png</file>
+        <file>image_2048/num_8.png</file>
+        <file>image_2048/num_16.png</file>
+        <file>image_2048/num_32.png</file>
+        <file>image_2048/num_64.png</file>
+        <file>image_2048/num_128.png</file>
+        <file>image_2048/num_256.png</file>
+        <file>image_2048/num_512.png</file>
+        <file>image_2048/num_1024.png</file>
+        <file>image_2048/num_2048.png</file>
+        <file>image_2048/logo.jpg</file>
+    </qresource>
+</RCC>
